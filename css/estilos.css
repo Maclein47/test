@@ -65,7 +65,7 @@ body{
     line-height: 60px;
     background-color: RGB(55,188,249);
     text-align: center;
-    letter-spacing: 1px;
+    letter-spacing: 5px;
     cursor: pointer;
     overflow: hidden;
     transition: all 500ms;
@@ -108,7 +108,9 @@ h3{
 
 /* ESTILOS DEL MENU */
 #menu{
+    float: right;
     text-align: center;
+    height: 30px;
 }
 
 #menu_c{
